@@ -1,6 +1,8 @@
 # manipulandoArquivos
 _Trata-se de programa ref. a matéria RAD em Python do Curso de Graduação de análise e des. de sistemas da Estácio._
 
+![logo](logo_estacio.jpg "Estácio")
+
 #### Projeto para criar programa de manipulação de arquivos .xlxs e .txt.
 
 _O programa montado irá ler a planilha: **dicionário_pessoas.xlxs** e vai extrair todas as informações necessárias para 
